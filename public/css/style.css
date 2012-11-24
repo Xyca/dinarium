@@ -33,12 +33,12 @@ body {
 #photo {
     display: block;
     float: left;
-    background: #fcfeff;
+    background: #ff6600;
     margin-left: 30px;
     border: 10px solid #ff6600;
-    -webkit-box-shadow: 0px 1px 3px #ffff00;
-    -moz-box-shadow: 0px 1px 3px #ffff00;
-    box-shadow: 0px 1px 3px #ffff00;
+    -webkit-box-shadow: 0px 1px 3px #FFFFC2;
+    -moz-box-shadow: 0px 1px 3px #FFFFC2;
+    box-shadow: 0px 1px 3px #FFFFC2;
 }
 
 #data {
@@ -64,7 +64,7 @@ a.facebook:hover {
 
 #data td{
     border-top: none;
-    border-bottom: 1px solid #FFFF00;
+    border-bottom: 1px solid #FFFFC2;
 }
 
 #data tr:hover td{
@@ -95,10 +95,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffc2', end
 a {
     color: #000;
     text-decoration: none;
-    text-shadow: -1px -1px 0 #FF6600;
+    text-shadow: -1px -1px 0 #FFFFC2;
 }
 .container h6 {
     color: #000;
     text-decoration: none;
-    text-shadow: -1px -1px 0 #FF6600;
+    text-shadow: -1px -1px 0 #FFFFC2;
 }
