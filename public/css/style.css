@@ -66,6 +66,24 @@ a.facebook:hover {
     border-top: none;
     border-bottom: 1px solid #FFFF00;
 }
+
+#data tr:hover td{
+    background-color:#FF6600;
+}
+
+.span8 .table tbody tr:hover td, .table tbody tr:hover th{
+    background-color:#FF6600;
+}
+.span8 .table tbody .progress-info .bar{
+    background: #ffffc2; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffc2 0%, #ff8b00 55%, #ff6600 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffc2), color-stop(55%,#ff8b00), color-stop(100%,#ff6600)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ffffc2 0%,#ff8b00 55%,#ff6600 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ffffc2 0%,#ff8b00 55%,#ff6600 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ffffc2 0%,#ff8b00 55%,#ff6600 100%); /* IE10+ */
+background: linear-gradient(to bottom, #ffffc2 0%,#ff8b00 55%,#ff6600 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffc2', endColorstr='#ff6600',GradientType=0 ); /* IE6-9 */
+}
 .container hr{
     border-color: #ffffc2;
 }
