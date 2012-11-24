@@ -65,6 +65,7 @@ a.facebook:hover {
 #data td{
     border-top: none;
     border-bottom: 1px solid #FFFFC2;
+    vertical-align: middle;
 }
 
 #data tr:hover td{
