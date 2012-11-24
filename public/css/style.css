@@ -9,7 +9,7 @@ img {
 
 body {
     margin-top:40px;    
-    background-image:url(../img/back.png);
+    background: #ffffc2;
 }
 
 .options {
@@ -35,10 +35,10 @@ body {
     float: left;
     background: #fcfeff;
     margin-left: 30px;
-    border: 10px solid #fff;
-    -webkit-box-shadow: 0px 1px 3px #ababab;
-    -moz-box-shadow: 0px 1px 3px #ababab;
-    box-shadow: 0px 1px 3px #ababab;
+    border: 10px solid #ff6600;
+    -webkit-box-shadow: 0px 1px 3px #ffff00;
+    -moz-box-shadow: 0px 1px 3px #ffff00;
+    box-shadow: 0px 1px 3px #ffff00;
 }
 
 #data {
@@ -60,4 +60,12 @@ a.facebook:hover {
     background-image:url(../img/facebook.png);
     width:30px;
     height:30px;
+}
+
+#data td{
+    border-top: none;
+    border-bottom: 1px solid #FFFF00;
+}
+.container hr{
+    border-color: #ffffc2;
 }
