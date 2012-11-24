@@ -74,3 +74,13 @@ a.facebook:hover {
     padding: 0 50px;
     text-align: right;
 }
+a {
+    color: #000;
+    text-decoration: none;
+    text-shadow: -1px -1px 0 #FF6600;
+}
+.container h6 {
+    color: #000;
+    text-decoration: none;
+    text-shadow: -1px -1px 0 #FF6600;
+}
