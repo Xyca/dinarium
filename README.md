@@ -1,4 +1,4 @@
-Сайт программиста
+Dinarium
 ===============
 
-http://habrahabr.ru/post/159631/
+On node js
