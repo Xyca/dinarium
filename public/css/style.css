@@ -71,7 +71,7 @@ a.facebook:hover {
     background-color:#FF6600;
 }
 
-.span8 .table tbody tr:hover td, .table tbody tr:hover th{
+.span8 .table tbody tr:hover td, .table tbody tr:hover th{ 
     background-color:#FF6600;
 }
 .span8 .table tbody .progress-info .bar{
