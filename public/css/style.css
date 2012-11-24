@@ -69,3 +69,8 @@ a.facebook:hover {
 .container hr{
     border-color: #ffffc2;
 }
+
+.footer {
+    padding: 0 50px;
+    text-align: right;
+}
